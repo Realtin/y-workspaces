@@ -1,0 +1,13 @@
+{
+  "name": "y-workspaces",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Realtin/y-workspaces.git",
+  "author": "Julia Krüger <juliakbln@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+      "workspace-a",
+      "workspace-b"
+  ]
+}
