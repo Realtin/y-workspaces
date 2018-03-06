@@ -2,8 +2,7 @@
   groups: {
     frontend: {
       packages: [
-        'packages/frontend/package.json',
-        'packages/lalalalala/package.json'
+        'packages/frontend/package.json'
       ]
     },
     backend: {
