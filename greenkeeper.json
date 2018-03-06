@@ -1,0 +1,15 @@
+{
+  groups: {
+    frontend: {
+      packages: [
+        'packages/frontend/package.json',
+        'packages/lalalalala/package.json'
+      ]
+    },
+    backend: {
+      packages: [
+        'packages/backend/package.json'
+      ]
+    }
+  }
+ }
