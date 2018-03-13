@@ -5,7 +5,7 @@
         'packages/frontend/package.json'
       ]
     },
-    backend: {
+    newCoolName: {
       packages: [
         'packages/backend/package.json'
       ]
