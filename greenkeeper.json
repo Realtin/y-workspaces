@@ -1,14 +1,11 @@
+
 {
-  groups: {
-    frontend: {
-      packages: [
-        'packages/frontend/package.json'
-      ]
-    },
-    newCoolName: {
-      packages: [
-        'packages/backend/package.json'
+  "groups": {
+    "AlleMeinePackages": {
+      "packages": [
+        "workspace-a/package.json",
+        "workspace-b/package.json"
       ]
     }
   }
- }
+}
