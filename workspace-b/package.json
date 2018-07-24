@@ -3,7 +3,7 @@
     "version": "1.0.1",
 
     "dependencies": {
-        "cross-env": "5.0.6",
+        "cross-env": "5.2.0",
         "workspace-a": "1.0.0"
     }
 }
